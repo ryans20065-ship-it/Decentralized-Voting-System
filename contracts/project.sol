@@ -17,7 +17,7 @@ contract DecentralizedVoting {
         uint voteCount;
     }
 
-    // --- State Variables ---
+    // --- State Variables --
 
     // The address of the contract administrator (who deployed it).
     address public owner;
