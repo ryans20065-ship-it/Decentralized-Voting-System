@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 /**
  * @title DecentralizedVoting
  * @dev A smart contract for a simple, decentralized voting system.
- * The owner can add candidates and start/stop the voting period
+ * The owner can add candidates and start/stop the voting period.
  * Voters can cast one vote each while voting is open.
  */
 contract DecentralizedVoting {
