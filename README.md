@@ -41,3 +41,5 @@ To empower communities and organizations with a reliable and accessible platform
 **Verification:** `[Verification Status (e.g., Verified on Sourcify)]`
 
 **Deployed Using:** `Remix IDE (Injected Provider - MetaMask)`
+<img width="1913" height="814" alt="Screenshot 2025-11-04 023001" src="https://github.com/user-attachments/assets/8a43ade7-3be2-497a-a044-19dc73b97fc1" />
+
