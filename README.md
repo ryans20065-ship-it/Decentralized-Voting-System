@@ -20,7 +20,7 @@ To empower communities and organizations with a reliable and accessible platform
 
 * Implement decentralized governance (DAO) for managing the voting system itself.
 * Integrate with identity solutions (e.g., World ID, ENS) for advanced voter verification.
-* Add support for different voting mechanisms (like ranked-choice or quadratic voting).
+* Add support for different voting mechanisms (like ranked-choice or quadratic voting)
 * Build a frontend dashboard for members to easily create proposals and vote.
 * Implement token-based voting, where voting power is proportional to token holdings.
 
